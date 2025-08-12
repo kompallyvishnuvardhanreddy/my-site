@@ -1,8 +1,8 @@
 body { 
-  background-color: #f9f9f9;
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  color: #333;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; 
+  margin: 40px; 
+  line-height: 1.5;
+  background-color: #f9f9f9; /* Change this to your color */
 }
 
 h1 { color: #2d3748; }
